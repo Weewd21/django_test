@@ -1,1 +1,1 @@
-# django_test
+# dudz author
